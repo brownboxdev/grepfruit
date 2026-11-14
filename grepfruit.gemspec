@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.version = Grepfruit::VERSION
   spec.authors = ["enjaku4"]
   spec.email = ["contact@brownbox.dev"]
-  spec.homepage = "https://github.com/enjaku4/grepfruit"
+  spec.homepage = "https://github.com/brownboxdev/grepfruit"
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = spec.homepage
   spec.metadata["changelog_uri"] = "#{spec.homepage}/blob/master/CHANGELOG.md"

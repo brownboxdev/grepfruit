@@ -249,7 +249,7 @@ Have a question or need assistance? Open a discussion in the [discussions sectio
 
 ### Contributing Code
 
-Any open issue is free to pick up or discuss. Check the [project board](https://github.com/users/enjaku4/projects/12) or [issues tab](https://github.com/enjaku4/grepfruit/issues).
+Any open issue is free to pick up or discuss. Check the [issues tab](https://github.com/enjaku4/grepfruit/issues).
 
 Before contributing, please read the [contributing guidelines](https://github.com/enjaku4/grepfruit/blob/master/CONTRIBUTING.md).
 
